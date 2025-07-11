@@ -22,7 +22,7 @@ I'm an underground hacker gone public 😉 — a **Bug Bounty Hunter**, **Linux 
 
 | Project      | Description |
 |-------------|-------------|
-| [MiladRecon 2.0](https://github.com/sp3ct3rx/MiladRecon) | Bash-based recon automation toolkit for pentesters |
+| [Web-application-Reconnaissance-bash-script](https://github.com/sp3ct3rx/Web-application-Reconnaissance-bash-script) | Bash-based recon automation toolkit for pentesters |
 | Coming Soon | More scripts, automation tools, and writeups |
 
 ---
