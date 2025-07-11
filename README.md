@@ -1,43 +1,44 @@
-# 👨‍💻 sp3ct3rx — Ethical Hacker | Bug Bounty Hunter | Python Developer
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+sp3ct3rx;Ethical+Hacker+%7C+Python+Wizard+%7C+Recon+Master" alt="Typing SVG" />
+</h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sp3ct3rx)  
-![Languages](https://img.shields.io/badge/Tools-Bash%2C%20Python%2C%20Nmap%2C%20Dirsearch-green)  
-![Status](https://img.shields.io/badge/Freelancer-Available-brightgreen)
-
----
-
-## 🚀 About Me
-
-I'm an underground hacker gone public 😉 — a **Bug Bounty Hunter**, **Linux power user**, and **Python tool builder** with deep roots in the world of offensive security.
-
-🧰 Main Tools:  
-`Bash`, `Python`, `Nmap`, `Burp Suite`, `Dirsearch`, `ffuf`, `crt.sh`, `Recon-ng`
-
-💻 OS of choice:  
-`Kali Linux`, `Ubuntu`, `Parrot OS`
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacker-Bash%20%7C%20Python%20%7C%20Recon%20Tools-%2300ff88?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Freelancer-Available-brightgreen?style=for-the-badge&logo=freelancer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Kali%20%7C%20Ubuntu-%239f7aea?style=for-the-badge&logo=linux" />
+</p>
 
 ---
 
-## 🔨 Featured Projects
+### 🧠 About Me
+```diff
++ Underground hacker turned ethical bug bounty hunter.
++ Fluent in Python, Bash, and the art of automation.
++ I build tools, scripts, and workflows for real-world recon.
+```
 
-| Project      | Description |
+---
+
+### ⚔️ Featured Arsenal
+
+| Tool        | Description |
 |-------------|-------------|
-| [Web-application-Reconnaissance-bash-script](https://github.com/sp3ct3rx/Web-application-Reconnaissance-bash-script) | Bash-based recon automation toolkit for pentesters |
-| Coming Soon | More scripts, automation tools, and writeups |
+| [MiladRecon](https://github.com/sp3ct3rx/MiladRecon) | 🧪 Recon automation with bash + nmap + dirsearch |
+| [Soon™]     | More tools, writeups, and exploits! |
 
 ---
 
-## 📫 Contact Me
+### 📈 Stats
 
-- 🌐 Freelancer: [sp3ct3rx on Freelancer](https://www.freelancer.com/u/sp3ct3rx)
-- 💬 Telegram: `@YourHandle`
-- 🧠 Blog (soon): `sp3ct3rx.substack.com`
-
----
-
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp3ct3rx&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sp3ct3rx&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sp3ct3rx&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp3ct3rx&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
+
+### ☠️ Contact Me
+
+- Freelancer: [sp3ct3rx](https://freelancer.com/u/sp3ct3rx)
+- Telegram: `@YourHandle`
+- GitHub: [sp3ct3rx](https://github.com/sp3ct3rx)
