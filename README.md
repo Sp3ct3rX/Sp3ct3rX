@@ -40,5 +40,5 @@
 ### ☠️ Contact Me
 
 - Freelancer: [sp3ct3rx](https://freelancer.com/u/sp3ct3rx)
-- Telegram: `@YourHandle`
+- Telegram: `@Ysp3ct3rxx`
 - GitHub: [sp3ct3rx](https://github.com/sp3ct3rx)
