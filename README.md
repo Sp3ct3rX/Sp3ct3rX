@@ -23,7 +23,7 @@
 
 | Tool        | Description |
 |-------------|-------------|
-| [MiladRecon](https://github.com/sp3ct3rx/MiladRecon) | 🧪 Recon automation with bash + nmap + dirsearch |
+| [Web-application-Reconnaissance-bash-script](https://github.com/sp3ct3rx/Web-application-Reconnaissance-bash-script) | 🧪 Recon automation with bash + nmap + dirsearch |
 | [Soon™]     | More tools, writeups, and exploits! |
 
 ---
