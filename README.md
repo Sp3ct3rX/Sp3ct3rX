@@ -25,7 +25,7 @@
 |-------------|-------------|
 | [Web-application-Reconnaissance-bash-script](https://github.com/sp3ct3rx/Web-application-Reconnaissance-bash-script) | 🧪 Recon automation with bash + nmap + dirsearch |
 | [Web-App-Param-Hunter](https://github.com/sp3ct3rx/Web-App-Param-Hunter)     | Web Application Parameter Hunter |
-| [HHTP-Header-Analyzer](https://github.com/sp3ct3rx/HHTP-Header-Analyzer)     | Web Page HTTP Header Analyzer and report |
+| [HHTP-Header-Analyzer](https://github.com/sp3ct3rx/HTTP-Header-Analyzer)     | Web Page HTTP Header Analyzer and report |
 
 ---
 
