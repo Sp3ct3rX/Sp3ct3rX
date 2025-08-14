@@ -13,8 +13,8 @@
 
 ## 🧠 About Me | 
 ```diff
-+ English:
-+ Underground hacker turned ethical bug bounty hunter.
+
++ a persopn who turned ethical bug bounty hunter.
 + Fluent in Python, Bash, and automation workflows.
 + Creator of recon tools used by security researchers worldwide.
 
@@ -50,9 +50,9 @@
 
 ## 🏆 PortSwigger Web Security Academy Progress
 ```
-Progress: ████████████████████░░░ 93%
+Progress: ████████████████████░░░ 60%
 Badges Earned: 🥇🥇🥇🥈🥈
-Challenges Completed: 187/200
+Challenges Completed: 117/200
 ```
 
 ---
