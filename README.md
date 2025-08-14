@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 About Me | درباره من
+## 🧠 About Me | 
 ```diff
 + English:
 + Underground hacker turned ethical bug bounty hunter.
@@ -26,7 +26,7 @@
 
 ---
 
-## ⚔️ Featured Arsenal | زرادخانه من
+## ⚔️ Featured Arsenal |
 
 | Tool        | Description |
 |-------------|-------------|
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 Stats & Progress | آمار و پیشرفت
+## 📊 Stats & Progress |  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sp3ct3rx&show_icons=true&theme=radical&hide_border=true" />
@@ -57,7 +57,7 @@ Challenges Completed: 187/200
 
 ---
 
-## ☠️ Contact Me | راه‌های ارتباطی
+## ☠️ Contact Me | 
 <p align="center">
   <a href="https://freelancer.com/u/sp3ct3rx"><img src="https://img.shields.io/badge/Freelancer-Profile-brightgreen?style=for-the-badge&logo=freelancer" /></a>
   <a href="https://t.me/sp3ct3rxx"><img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" /></a>
